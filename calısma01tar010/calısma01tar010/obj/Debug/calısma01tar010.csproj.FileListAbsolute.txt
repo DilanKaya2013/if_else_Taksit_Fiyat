@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\calısma01tar010\calısma01tar010\bin\Debug\calısma01tar010.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\calısma01tar010\calısma01tar010\bin\Debug\calısma01tar010.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\calısma01tar010\calısma01tar010\bin\Debug\calısma01tar010.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\calısma01tar010\calısma01tar010\obj\Debug\calısma01tar010.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\calısma01tar010\calısma01tar010\obj\Debug\calısma01tar010.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\calısma01tar010\calısma01tar010\obj\Debug\calısma01tar010.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\calısma01tar010\calısma01tar010\obj\Debug\calısma01tar010.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\calısma01tar010\calısma01tar010\obj\Debug\calısma01tar010.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\calısma01tar010\calısma01tar010\obj\Debug\calısma01tar010.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\calısma01tar010\calısma01tar010\obj\Debug\calısma01tar010.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\calısma01tar010\calısma01tar010\obj\Debug\calısma01tar010.pdb
